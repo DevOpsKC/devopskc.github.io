@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://devopskc.com/categories/</loc>
+    <loc>https://devopskc.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://devopskc.com/</loc>
+    <loc>https://devopskc.com/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://devopskc.com/tags/</loc>
+    <loc>https://devopskc.com/tags/</loc>
     <priority>0</priority>
   </url>
   
